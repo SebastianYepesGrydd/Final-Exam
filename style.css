@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: red;
+  }
+  .title {
+    color: rgba(0, 118, 165, 0.714);
+  }
+  .container__inputs {
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+  }
+  #form {
+    margin: 10%;
+    color:black;
+    background-color: white;
+  }
+  .container__text {
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+  }
+  .container__text p {
+    margin-bottom: 6px;
+    margin-top: 6px;
+  }
+  #app{
+    display: block;
+    margin: 0px auto; 
+    text-align: center;
+  }
+  .container__btn #button {
+    margin-top: 10px;
+  }
+#result{
+  margin-top: auto;
+  text-align: center;}
